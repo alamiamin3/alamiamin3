@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Ahmed Amine 👋
 
 ## About Me
 I'm a passionate Computer Science Student. I'm currently studying at 1337 Coding School based in Morocco which is part of the 42 Network
