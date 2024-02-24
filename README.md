@@ -8,4 +8,4 @@ I'm a passionate Computer Science Student. I'm currently studying at 1337 Coding
 
 Feel free to reach out to me for collaboration, discussions, or any questions you may have
 
-[![aalami's 42 stats](https://badge42.vercel.app/api/v2/clj80l2cr001108md85f7njk6/stats?cursusId=21&coalitionId=74)](https://github.com/JaeSeoKim/badge42)
+[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&dark=true&login=aalami)](https://github.com/mohouyizme/1337-readme)
