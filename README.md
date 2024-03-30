@@ -6,14 +6,10 @@
 <br>
 <h3>I'm a passionate Computer Science Student. I'm currently studying at 1337 Coding School based in Morocco which is part of the 42 Network, Currently learning Web Development. I’m open for an Intern or a new job opportunity</h3>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats && School badge</b>
 [![alamiamin3's GitHub stats](https://github-readme-stats.vercel.app/api?username=alamiamin3&show_icons=true&theme=radical)](https://github.com/alamiamin3/github-readme-stats)
 [![aalami's 42 stats](https://badge.mediaplus.ma/darkblue/aalami)](https://github.com/oakoudad/badge42)
-<div align="center">
-</div>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -91,25 +87,6 @@
 </ul>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
 
 
 </div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
